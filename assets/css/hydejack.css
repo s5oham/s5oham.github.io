@@ -197,7 +197,7 @@
 }
 
 .list-wrapper {
-  display: flex;
+  display: flex !important;
 }
 
 .list-body {
