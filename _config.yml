@@ -2,27 +2,27 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Henry
+title:               개발하는 감자
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://s5oham.github.io
+url:                 s5oham.github.io #https://localhost:4000
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             개발하는 감자
+tagline:             ""
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  개발 감자
+  하루하루 성장하는 사람이 되도록 도전하는 개발자
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              henry Ham
+  name:              Daniel Ham
   email:             bc1206@naver.com
 
 # Fallback image and color
@@ -50,7 +50,7 @@ google_analytics:    UA-92346434-1
 disqus_shortname:    s5oham
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2017. by isme2n'
+copyright:           '&copy; 2024. by daniel'
 
 # Format of the permalinks
 permalink:           pretty

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Data
-slug: data
-category: devlog
+title: Network
+slug: Network
+category: cs
 menu: false
 order: 2
 ---

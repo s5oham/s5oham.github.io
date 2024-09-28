@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Food
-slug: food
-category: review
+title: Kubernetes
+slug: k8s
+category: devops
 menu: false
 order: 2
 ---
