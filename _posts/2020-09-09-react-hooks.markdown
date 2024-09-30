@@ -2,8 +2,8 @@
 layout: post
 title: 'React Hooks를 알아보자'
 subtitle: '리액트 훅스를 알아보자'
-categories: devlog
-tags: javascript
+categories: programming-language
+tags: python
 comments: true
 ---
 
