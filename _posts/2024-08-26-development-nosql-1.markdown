@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[NoSQL] MongoDB 데이터베이스 및 컬렉션 관리'
-subtitle: 'nosql, nosql'
+subtitle: 'MongoDB 데이터베이스 및 컬렉션 관리'
 categories: development
 tags: nosql
 comments: true

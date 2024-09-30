@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Docker] 1. 온프레미스 환경과 Portainer'
+title: '[Docker] 온프레미스 환경과 Portainer'
 subtitle: 'docker, 온프레미스 환경'
 categories: devops
 tags: docker

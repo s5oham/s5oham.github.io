@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[NoSQL] MongoDB: ObjectId와 데이터 타입 관리'
-subtitle: 'nosql, nosql'
+subtitle: 'MongoDB: ObjectId와 데이터 타입 관리l'
 categories: development
 tags: nosql
 comments: true
