@@ -2,7 +2,7 @@
 layout: post
 title: 'React Hooks를 알아보자'
 subtitle: '리액트 훅스를 알아보자'
-categories: programming-language
+categories: language
 tags: python
 comments: true
 ---
