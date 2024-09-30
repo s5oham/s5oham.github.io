@@ -1,16 +1,13 @@
 ---
 layout: post
-title: '[모던자바스크립트] 31. 문자열'
-subtitle: 'modern javascript, 문자열'
-categories: devlog
-tags: javascript
+title: '[Docker] 1. 도커'
+subtitle: 'docker, docker'
+categories: devops
+tags: docker
 comments: true
 ---
 
-> 이 글은 번역 및 정리 글입니다.
-> 출처: javascript.info
-
-# 문자열
+# Docker
 
 자바스크립트에서 텍스트 데이터는 문자열로 저장된다. 단일 문자에 대한 별도의 타입이 존재하지는 않는다.
 

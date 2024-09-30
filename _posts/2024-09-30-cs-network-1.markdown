@@ -1,16 +1,13 @@
 ---
 layout: post
-title: '[모던자바스크립트] 30. 원시형의 메소드'
-subtitle: 'modern javascript, 원시형의 메소드'
-categories: devlog
-tags: javascript
+title: '[Network] 1. 네트워크'
+subtitle: 'network, net'
+categories: cs
+tags: network
 comments: true
 ---
 
-> 이 글은 번역 및 정리 글입니다.
-> 출처: javascript.info
-
-# 숫자
+# Network
 
 모던 자바스크립트에는 두 가지 유형의 숫자가 있다.
 

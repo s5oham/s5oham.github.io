@@ -1,17 +1,14 @@
 ---
 layout: post
-title: '[모던자바스크립트] 29. 원시형의 메소드'
-subtitle: 'modern javascript, 원시형의 메소드'
-categories: devlog
-tags: javascript
+title: '[APIs] 1. API'
+subtitle: 'apis, apis'
+categories: development
+tags: apis
 comments: true
 ---
 
-> 이 글은 번역 및 정리 글입니다.
-> 출처: javascript.info
-
-# 원시형의 메소드
-
+# APIs
+ 
 자바스크립트를 사용하면 원시형을 객체처럼 사용할 수 있다. 원시형도 메소드를 제공하는데, 원시형은 객체가 아닌데 어떻게 사용할 수 있게되는건지 살펴보자.
 
 우선 원시형과 객체의 주요 차이점부터 살펴보자.

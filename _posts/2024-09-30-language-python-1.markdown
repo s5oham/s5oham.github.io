@@ -1,15 +1,13 @@
 ---
 layout: post
-title: '[12월] 겨울 생필품 쇼핑목록 BEST 5'
-subtitle: '12월, 겨울 생필품 위주의 쇼핑목록. 섬유탈취제, 구강청결제, 바디오일, 콜라, 의자'
-categories: shopping
-tags: shopping
+title: '[Python] 1. 파이썬'
+subtitle: 'python, python'
+categories: language
+tags: python
 comments: true
 ---
 
-난 생각보다 청결에 신경을 꽤 쓰는 편이다.
-
-## 1. [나우푸드 100% 천연 호호바 오일](https://coupa.ng/bko7Fu)
+## Python
 
 <div class="row-center">
 <iframe src="https://coupa.ng/bko7Fu" width="240" height="240" frameborder="0" scrolling="no"></iframe>
