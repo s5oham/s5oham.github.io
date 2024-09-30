@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: Apis
+title: APIs
 slug: apis
 category: development
 menu: false
