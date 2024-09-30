@@ -13,7 +13,7 @@ comments: true
 
 - 프로젝트의 요구사항에 따라 DB 테이블 및 구조를 설계
 
-![Customer Table 설계](assets/img/apis-3-Requirements_definition_1.png)
+![Customer Table 설계](https://github.com/s5oham/s5oham.github.io/blob/cc314b5c3f2a3e297e7a083c0609fab630d480a1/assets/img/apis-3-Requirements_definition_1.png)
 
 ---
 
