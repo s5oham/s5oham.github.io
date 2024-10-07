@@ -1,7 +1,6 @@
 @media screen {
   .y-drawer-scrim {
-    //z-index: 2;
-    z-index: 4;
+    z-index: 2;
   }
 
   .y-drawer-content {
@@ -10,11 +9,6 @@
     z-index: 3;
 
   }
-
-  .y-drawer-open .y-drawer-content {
-      left: 0;  // 사이드바가 열렸을 때
-  }
-
 
   // header, body::before {
   //   backface-visibility: hidden;
