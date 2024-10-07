@@ -1,20 +1,13 @@
 @media screen {
   .y-drawer-scrim {
     //z-index: 2;
-    z-index: 4;  // 사이드바 콘텐츠보다 높은 값
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background: rgba(0, 0, 0, 0.5);  // 어두운 배경 추가
+    z-index: 4;
   }
 
   .y-drawer-content {
     width: 18rem;
     left: -18rem;
     z-index: 3;
-    transition: left 0.3s ease;  // 부드러운 전환 효과 추가
 
   }
 
