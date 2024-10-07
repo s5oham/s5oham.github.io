@@ -39,6 +39,12 @@ function menuClickClallback(e) {
 
 function addEventListeners(drawer) {
   window.drawer = drawer;
+
+  // 닫기 버튼 클릭 시 사이드바 닫기
+  document.getElementById('closeSidebar').addEventListener('click', function() {
+    drawer.close();  // 사이드바 닫기
+  });
+
   window.addEventListener('resize', resizeCallback);
   document.getElementById('_menu').addEventListener('click', menuClickClallback);
 }
