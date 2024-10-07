@@ -14,25 +14,25 @@
 // }
 
 .menu {
-    display: inline-block;
-    padding: 1.75rem 1.5rem;
-    border-bottom: none;
-    margin-left: -1.5rem;
-    color: $gray!important;
-
-    &::after {
-      content: "\2630"; // ☰
-    }
-
-    @media screen and (min-width: $break-point-2) {
-      padding: 1.25rem 1.5rem;
-      position: absolute;
-      left: -9999px;
-
-      &:focus {
-        position: static;
-      }
-    }
+  // display: inline-block;
+  // padding: 1.75rem 1.5rem;
+  // border-bottom: none;
+  // margin-left: -1.5rem;
+  // color: $gray!important;
+  //
+  // &::after {
+  //   content: "\2630"; // ☰
+  // }
+  //
+  // @media screen and (min-width: $break-point-2) {
+  //   padding: 1.25rem 1.5rem;
+  //   position: absolute;
+  //   left: -9999px;
+  //
+  //   &:focus {
+  //     position: static;
+  //   }
+  // }
 
   @media print {
     display: none;
