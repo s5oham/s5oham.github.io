@@ -41,19 +41,6 @@ function addEventListeners(drawer) {
   window.drawer = drawer;
   window.addEventListener('resize', resizeCallback);
   document.getElementById('_menu').addEventListener('click', menuClickClallback);
-  // 사이드바 외부 클릭 시 닫기 (모바일)
-  document.addEventListener('click', function(event) {
-    const sidebar = document.getElementById('_yDrawer');
-    if (!sidebar.contains(event.target) && !window.isDesktop && drawer.opened) {
-      drawer.close();  // 사이드바 닫기
-    }
-  });
-  // 터치 이동 시 닫기 (모바일)
-  document.addEventListener('touchmove', function() {
-    if (!window.isDesktop && drawer.opened) {
-      drawer.close();  // 사이드바 닫기
-    }
-  });
 }
 
 if (!window.disableDrawer && hasFeatures(REQUIREMENTS)) {
