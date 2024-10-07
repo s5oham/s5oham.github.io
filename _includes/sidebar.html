@@ -2,9 +2,8 @@
   <div id="_sidebar" class="sidebar">
     <div class="sidebar-bg" style="background-color:{{ color }};background-image:url({{ image }})"></div>
     <header class="sidebar-sticky" role="banner">
+      <button id="closeSidebar" class="close-btn">✕</button>
       <br/>
-      <button id="closeSidebar" class="close-btn">✕ 닫기</button>
-
       <div class="sidebar-about">
         <h1><a id="_title" href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
         {{ site.tagline | truncatewords:50 | markdownify }}
