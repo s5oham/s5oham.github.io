@@ -37,26 +37,6 @@ function menuClickClallback(e) {
   }
 }
 
-function openSidebar() {
-  const sidebar = document.getElementById('_yDrawer');
-  sidebar.classList.add('opened');  // 사이드바 열림
-}
-
-function closeSidebar() {
-  const sidebar = document.getElementById('_yDrawer');
-  sidebar.classList.remove('opened');  // 사이드바 닫힘
-}
-
-// 닫기 버튼 클릭 시 사이드바 닫기
-document.getElementById('closeSidebar').addEventListener('click', function() {
-  closeSidebar();
-});
-
-// 메뉴 버튼 클릭 시 사이드바 열기
-document.getElementById('_menu').addEventListener('click', function() {
-  openSidebar();
-});
-
 function addEventListeners(drawer) {
   window.drawer = drawer;
   window.addEventListener('resize', resizeCallback);

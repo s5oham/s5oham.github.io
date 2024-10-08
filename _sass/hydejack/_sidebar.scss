@@ -29,36 +29,6 @@
   }
 }
 
-#_yDrawer {
-  position: fixed;
-  top: 0;
-  left: -100%; /* 사이드바를 화면 밖으로 숨김 */
-  width: 18rem;
-  height: 100%;
-  transition: transform 0.3s ease-in-out; /* 트랜지션 추가 */
-  background-color: #202020; /* 배경색 설정 */
-  z-index: 10;
-  padding: 1rem;
-  box-shadow: 2px 0 5px rgba(0,0,0,0.5);
-}
-
-#_yDrawer.opened {
-  transform: translateX(100%); /* 사이드바를 화면 안으로 가져옴 */
-}
-
-.close-btn {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  background-color: #ff5f5f;
-  color: white;
-  border: none;
-  padding: 10px;
-  font-size: 20px;
-  cursor: pointer;
-  border-radius: 4px;
-}
-
 // #_yDrawer {
 //   position: relative;
 //
