@@ -5545,7 +5545,7 @@ button.bg-dark:focus {
   display: -ms-inline-flexbox !important;
   display: inline-flex !important; }
 
-@media (min-width: 576px) {
+@media (min-width: 300px) {
   .d-sm-none {
     display: none !important; }
   .d-sm-inline {
@@ -5569,7 +5569,7 @@ button.bg-dark:focus {
     display: -ms-inline-flexbox !important;
     display: inline-flex !important; } }
 
-@media (min-width: 768px) {
+@media (min-width: 700px) {
   .d-md-none {
     display: none !important; }
   .d-md-inline {
