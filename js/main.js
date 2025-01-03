@@ -190,13 +190,13 @@
 					  {
 					    number: num,
 					    numberStep: comma_separator_number_step
-					  }, 7000
+					  }, 15000
 					);
 				});
 				
 			}
 
-		} , { offset: '95%' } );
+		} , { offset: '100%' } );
 
 	}
 	counter();
